@@ -37,6 +37,10 @@ ul {
     width: 34px;
 }
 
+.square--winning {
+    background-color: greenyellow;
+}
+
 .square:hover {
     cursor: pointer;
 }
